@@ -29,15 +29,6 @@ input {
     align-items: center;
 }
 
-#pikachu {
-    height: 1.7rem;
-    margin: 25px;
-}
-
-#pikachu:hover {
-    cursor: pointer;
-}
-
 .card {
     width: 200px;
     height: 350px;
