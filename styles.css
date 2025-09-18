@@ -31,7 +31,7 @@ input {
 
 .card {
     width: 200px;
-    height: 350px;
+    height: 380px;
     border-radius: 10px;
     background-color: rgb(100, 108, 102);
     margin: 10px;  
@@ -45,4 +45,18 @@ ul {
     border-radius: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.deleteBtn {
+    background-color: rgb(188, 210, 192);
+    border: none;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.deleteBtn:hover {
+    cursor: pointer;
 }
